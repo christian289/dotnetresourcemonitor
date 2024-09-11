@@ -1,6 +1,4 @@
-﻿using ReactiveUI;
-
-namespace DotnetResourceMonitor.ViewModels;
+﻿namespace DotnetResourceMonitor.ViewModels;
 
 public class ViewModelBase : ReactiveObject
 {
