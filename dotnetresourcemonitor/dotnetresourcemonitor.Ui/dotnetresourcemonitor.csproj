@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DotnetResourceMonitor.Core\DotnetResourceMonitor.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Models\" />
     <AvaloniaResource Include="Assets\**" />
   </ItemGroup>

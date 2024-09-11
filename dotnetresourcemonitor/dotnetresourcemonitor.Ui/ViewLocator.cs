@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using dotnetresourcemonitor.ViewModels;
+using DotnetResourceMonitor.ViewModels;
 
-namespace dotnetresourcemonitor;
+namespace DotnetResourceMonitor;
 
 public class ViewLocator : IDataTemplate
 {

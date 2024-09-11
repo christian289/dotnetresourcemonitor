@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using dotnetresourcemonitor.ViewModels;
-using dotnetresourcemonitor.Views;
+using DotnetResourceMonitor.ViewModels;
+using DotnetResourceMonitor.Views;
 
-namespace dotnetresourcemonitor;
+namespace DotnetResourceMonitor;
 
 public partial class App : Application
 {

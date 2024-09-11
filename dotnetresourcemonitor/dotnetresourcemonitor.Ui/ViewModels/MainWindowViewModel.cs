@@ -1,4 +1,4 @@
-﻿namespace dotnetresourcemonitor.ViewModels;
+﻿namespace DotnetResourceMonitor.ViewModels;
 
 public class MainWindowViewModel : ViewModelBase
 {

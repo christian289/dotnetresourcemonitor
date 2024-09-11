@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace dotnetresourcemonitor;
+namespace DotnetResourceMonitor;
 
 sealed class Program
 {

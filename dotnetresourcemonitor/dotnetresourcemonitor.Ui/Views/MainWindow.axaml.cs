@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace dotnetresourcemonitor.Views;
+namespace DotnetResourceMonitor.Views;
 
 public partial class MainWindow : Window
 {
