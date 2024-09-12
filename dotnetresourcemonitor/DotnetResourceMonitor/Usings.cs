@@ -8,3 +8,4 @@ global using Avalonia.Markup.Xaml;
 global using Avalonia.ReactiveUI;
 
 global using ReactiveUI;
+global using Splat;

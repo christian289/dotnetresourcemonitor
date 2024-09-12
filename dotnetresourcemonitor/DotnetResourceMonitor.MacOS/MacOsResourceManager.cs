@@ -1,6 +1,6 @@
 ﻿using DotnetResourceMonitor.Interface;
 
-namespace DotnetResourceMonitor.Core;
+namespace DotnetResourceMonitor.MacOS;
 
 public class MacOsResourceManager : IResourceManager
 {

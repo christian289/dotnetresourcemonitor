@@ -1,8 +1,10 @@
 ﻿using DotnetResourceMonitor.Interface;
 
-namespace DotnetResourceMonitor.Core;
+namespace DotnetResourceMonitor.Windows;
 
 public class WindowsResourceManager : IResourceManager
 {
-
+    public WindowsResourceManager()
+    {
+    }
 }
